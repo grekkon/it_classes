@@ -1,3 +1,4 @@
+#OpenHashTab
 #Constants
 M = 100
 tab = [[] for i in range(M)]
